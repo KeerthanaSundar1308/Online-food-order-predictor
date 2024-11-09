@@ -1,1 +1,2 @@
-A machine learning model using random forest classifier algorithm was developed which predicts whether the user is likely to order again based on certain metrics.
+Online Food Order Predictor
+A machine learning model which uses random forest classifier algorithm to predicts whether the user is likely to order again based on certain metrics.
